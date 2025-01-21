@@ -1,4 +1,4 @@
-# README: Setup .env File for Discord Bot Auto Claim Mango Testnet
+# README: Setup .env File for Discord Bot Auto Claim Mango Faucet Testnet
 
 ## Buat .env File Bang
 
